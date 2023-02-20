@@ -3,5 +3,5 @@
 
 # 🔨 Recursos utilizados
 
--Python3
+- Python3
 - Boto3 (SDK da AWS para Python)
